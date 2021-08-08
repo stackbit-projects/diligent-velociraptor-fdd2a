@@ -8,7 +8,7 @@ const Banner = (props) => (
             </header>
             <div className="content">
                 <h3>A responsive site template designed by HTML5 UP<br />
-                and released under the Creative Commons.</p>
+                and released under the Creative Commons.</h3>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
