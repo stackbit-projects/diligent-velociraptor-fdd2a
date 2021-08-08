@@ -35,8 +35,7 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-phone"></span>
                         <h3>Contatti Telefonici</h3>
-                        <a href="tel:+390759275677" target="_blank" rel="noopener">(+39) 075 9275677</a><br /><a href="tel:+390759275677" target="_blank" rel="noopener">+39 075 9275677</a><br>
-M <a href="tel:+393294441823" target="_blank" rel="noopener">+39 329 4441823</a>
+                        <a href="tel:+390759275677" target="_blank" rel="noopener">(+39) 075 9275677</a><br /><a>M +39 329 4441823</a>
                     </div>
                 </section>
                 <section>
