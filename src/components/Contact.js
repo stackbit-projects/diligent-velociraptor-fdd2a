@@ -42,7 +42,7 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
                         <h3>Indirizzo Uffici</h3>
-                        <a>1234 Somewhere Road #5432<br />
+                        <a href="https://goo.gl/maps/5X9jLRuQSNA4TMT38" target="_blank" rel="noopener">1234 Somewhere Road #5432<br />
                         Nashville, TN 00000<br />
                         United States of America</a>
                     </div>
