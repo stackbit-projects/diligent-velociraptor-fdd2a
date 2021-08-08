@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "David Passeri - Forty V2",
+    title: "David Passeri - Consulente Finanziario",
     author: "Hunter Chang",
     description: "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
   },
