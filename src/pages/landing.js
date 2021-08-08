@@ -23,7 +23,7 @@ const Landing = (props) => (
                     <header className="major">
                         <h2>La mia filosofia</h2>
                     </header>
-                    <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+                    <p>Il settore del risparmio e degli investimenti muta costantemente ad una velocità via via sempre crescente. Quello che valeva per ieri potrebbe non valere più domani. Navigare a vista, in un mare così caotico, non è più possibile se non al prezzo della propria sicurezza. </p>
                 </div>
             </section>
             <section id="two" className="spotlights">
