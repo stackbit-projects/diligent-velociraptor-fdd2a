@@ -43,8 +43,7 @@ const Contact = (props) => (
                         <span className="icon alt fa-home"></span>
                         <h3>Indirizzo Uffici</h3>
                         <a href="https://goo.gl/maps/5X9jLRuQSNA4TMT38" target="_blank" rel="noopener">Via Risorgimento, 1<br />
-                        06024 Gubbio (PG)<br />
-                        United States of America</a>
+                        06024 Gubbio (PG)</a>
                     </div>
                 </section>
             </section>
