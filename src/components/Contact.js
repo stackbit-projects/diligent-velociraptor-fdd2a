@@ -44,7 +44,7 @@ const Contact = (props) => (
                         <h3>Indirizzo Uffici</h3>
                         <a>1234 Somewhere Road #5432<br />
                         Nashville, TN 00000<br />
-                        United States of America</span>
+                        United States of America</a>
                     </div>
                 </section>
             </section>
