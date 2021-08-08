@@ -7,8 +7,7 @@ const Banner = (props) => (
                 <h2>"Il rischio nasce dal non sapere cosa stai facendo"</h2>
             </header>
             <div className="content">
-                <h3>A responsive site template designed by HTML5 UP<br />
-                and released under the Creative Commons.</h3>
+                <h3>Warren Buffet</h3>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">Get Started</a></li>
                 </ul>
