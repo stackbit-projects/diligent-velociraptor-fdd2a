@@ -42,9 +42,9 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-home"></span>
                         <h3>Indirizzo Uffici</h3>
-                        <a href="https://goo.gl/maps/5X9jLRuQSNA4TMT38" target="_blank" rel="noopener"><em>Via Risorgimento, 1</em></a><br>
-<em>06024 Gubbio (PG)<br>
-</em>
+                        <span>1234 Somewhere Road #5432<br />
+                        Nashville, TN 00000<br />
+                        United States of America</span>
                     </div>
                 </section>
             </section>
