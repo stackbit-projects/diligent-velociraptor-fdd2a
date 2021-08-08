@@ -7,8 +7,7 @@ const Footer = (props) => (
                 <li><a href="#" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
             </ul>
             <ul className="copyright">
-                <li>&copy; David Passeri</li><li><a href="https://www.azimut.it">Financial Partner Azimut Capital Management SGR S.p.A.
-</a></li>
+                <li>&copy; David Passeri</li><li><a href="https://www.azimut.it">Financial Partner Azimut Capital Management SGR S.p.A.</a></li>
             </ul>
         </div>
     </footer>
