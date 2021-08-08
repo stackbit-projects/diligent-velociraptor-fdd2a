@@ -11,7 +11,7 @@ const Footer = (props) => (
                 <li><a href="#" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
             </ul>
             <ul className="copyright">
-                <li>&copy; David Passeri</li><li>Consulente <a href="https://azimut.com">Finanziario</a></li>
+                <li>&copy; David Passeri</li><li>Consulente Finanziario<a href="https://azimut.com">Finanziario</a></li>
             </ul>
         </div>
     </footer>
