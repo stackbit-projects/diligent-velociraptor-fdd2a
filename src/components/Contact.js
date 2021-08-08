@@ -28,7 +28,7 @@ const Contact = (props) => (
                     <div className="contact-method">
                         <span className="icon alt fa-envelope"></span>
                         <h3>Indirizzo Email</h3>
-                        <a href="#">information@untitled.tld</a>
+                        <a href="mailto:david.passeri@azimut.it" target="_blank" rel="noopener">david.passeri@azimut.it</a>
                     </div>
                 </section>
                 <section>
