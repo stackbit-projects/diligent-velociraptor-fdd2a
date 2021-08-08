@@ -4,7 +4,7 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>"Il rischio nasce dal non sapere cosa stai facendo"</h1>
+                <h2>"Il rischio nasce dal non sapere cosa stai facendo"</h2>
             </header>
             <div className="content">
                 <p>A responsive site template designed by HTML5 UP<br />
