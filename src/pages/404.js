@@ -6,7 +6,7 @@ const NotFoundPage = () => (
     <div id="main" className="alt">
         <section id="one">
             <div className="inner">
-                <h1>T</h1>
+                <h1>Ti sei perso?</h1>
                 <p>Hai percorso una strada che non porta a nulla... Che tristezza.</p>
             </div>
         </section>
