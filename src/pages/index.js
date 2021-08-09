@@ -19,7 +19,7 @@ class HomeIndex extends React.Component {
                 <Helmet
                     title="David Passeri - Consulente Finanziario"
                     meta={[
-                        { name: 'description', content: 'David Passeri Consulente Finanziario del pAzimut Capital Management S.p.A..' },
+                        { name: 'description', content: 'David Passeri Consulente Finanziario Azimut Capital Management S.p.A..' },
                         { name: 'keywords', content: 'sample, something' },
                     ]}
                 >
