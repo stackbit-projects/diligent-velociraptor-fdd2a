@@ -20,7 +20,7 @@ class HomeIndex extends React.Component {
                     title="David Passeri - Consulente Finanziario"
                     meta={[
                         { name: 'description', content: 'David Passeri Consulente Finanziario Azimut Capital Management S.p.A..' },
-                        { name: 'keywords', content: 'Consulente, Finanziario, Perugia, Gubbio, Umbria, Azimut,' },
+                        { name: 'keywords', content: 'Consulente, Finanziario, Perugia, Gubbio, Umbria, Azimut, Investire' },
                     ]}
                 >
                 </Helmet>
