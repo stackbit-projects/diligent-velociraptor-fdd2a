@@ -77,7 +77,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h2>Newsletter</h2>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                            <p>Tramite il form sottostante è possibile iscriversi alla newsletter gratuita personalmente creata e gestita, attraverso la quale, riceverà su base generalmente settimanale: degli articoli sugli ultimi trends in tema economico finanziario, l’analisi tecnica di nuovi strumenti finanziari, delle raccomandazioni agli investitori sulla base dei nuovi scenari macroeconomici.</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>
